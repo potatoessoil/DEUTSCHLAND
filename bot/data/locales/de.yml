@@ -64,7 +64,7 @@ misc:
     multi: "Insgesamt **[total]**."
 
   welcome:
-    placeholder_text: "[ Welcome to [server_name], [user_name]! There is now [member_count] users here! ]"
+    placeholder_text: "[ Willkommen zu [server_name], [user_name]! hier sind jetzt [member_count] benutzern hier! ]"
 
   wikipedia: "[ [Hier]([link]) ist deine randomisierte wikipedia Artikel. es ist über [title]... ich denke ... ]"
 
@@ -93,7 +93,8 @@ wool:
   transfer:
     errors:
       self_transfer: "[ Fertig... ]"
-      not_enough: "[ Du hast nicht so viel [emoji:wool] wool! (du hast nur [emoji:wool]**[balance]**) ]"
+      not_enough: "[ Du hast nicht so viel [emoji:wool] wool! (du hast nur [emoji:wool]**[balance]**) 
+      note_nuf: "Du hast [emoji:wool]**[balance]**" # note:
     to:
       bot:
         none: "[user_one] verschenkt [emoji:wool]**[amount]** to [user_two], nicht sehr großzügig!"
