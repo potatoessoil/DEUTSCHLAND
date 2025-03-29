@@ -172,11 +172,11 @@ server:
       Previous: [old_text]
 
       New (current): [new_text]
-    disabled_note: "don't forget to enable them with `/settings welcome enabled value:True`" # note:
+    disabled_note: "Vergiss nicht Sie zu aktivieren mit `/settings welcome enabled value:True`" # note:
   transmissions:
     enabled:
-      yah: "[ This server is now closed for calls ]"
-      nah: "[ This server is now open for calls ]"
+      yah: "[ dieser Server ist jetzt geschlossen für anrufe  ]"
+      nah: "[ dieser Server ist jetzt offen für anrufe ]"
     channel:
       auto: "[ Übertragungs kanal zurücksetzet]"
       Changed: "[Übertragungs Kanal wurde eingestellt auf [channel] ]"
@@ -498,7 +498,7 @@ interact:
         - "[user_one] startet [user_two] zu kitzel!"
         - "[user_one] gibt [user_two] ein Überraschung kitzel!"
         - "[user_one] kitzelte [user_two] und startete ein kitzel kämpf!"
-        - "[user_one] went for a tickle attack towards [user_two]!"
+        - "[user_one] ging für ein kitzel Angriff zu [user_two]!"
     hug:
       name: Umarmung
       messages: "[user_one] Umarmte [user_two]!"
